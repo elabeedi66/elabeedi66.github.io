@@ -1,0 +1,225 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+  position: right # position of the sidebar : left or right
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
+
+  # Profile information
+  name: Oumair Elabidi
+  tagline: Agent at Monobloy Authority
+  avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+  # Sidebar links
+  email: elabeedi66@yahoo.com
+  phone: 012 345 6789
+  timezone: UTC
+  citizenship:
+  website: #blog.webjeda.com #do not add http://
+  linkedin:
+  xing:
+  github: elabeedi66
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter: '@elabeedi66'
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  pdf: # http://www.africau.edu/images/default/sample.pdf
+
+  languages:
+    title: Languages
+    info:
+      - idiom: Arabic
+        level: Native
+
+      - idiom: French
+        level: Professional
+
+      - idiom: English
+        level: Professional
+
+  interests:
+    title: Interests
+    info:
+      - item: Board Games 🎲
+        link:
+
+      - item: Cooking 🔥
+        link:
+
+      - item: CyberSecurity 🔒
+        link:
+
+career-profile:
+  title: Career Profile
+  summary: |
+    Dedicated and experienced Agent with a proven track record in the Monoboly Authority, 
+    seeking to leverage my skills and expertise to contribute effectively in maintaining fairness and integrity within
+    the authority's operations.
+education:
+  title: Education
+  info:
+    - degree: Diploma in Secretariat Bureautique
+      university: OFPPT
+      time: 2015
+      details:
+    - degree: High School Baccalaureate
+      university: Ibn Sina High School
+      time: 2013
+      details:
+
+experiences:
+  title: Professional Experience
+  info:
+    - role: Agent
+      time: 2015 - Present
+      company: Monoboly Authority
+      details: |
+        - Conducting thorough reviews and validations of "Get Out of Jail" cards to ensure authenticity and compliance with regulations.
+        - Assisting in the management and creation of cards using the agent's panel.
+        - Collaborating with colleagues to ensure smooth and efficient card issuance processes.
+        - Providing accurate information and guidance to citizens and organizations using the card verification service.
+    - role: Intern
+      time: 2014
+      company: Monoboly Authority
+      details: |
+        - Conducting thorough reviews and validations of "Get Out of Jail" cards to ensure authenticity and compliance with regulations.
+        - Assisting in the management and creation of cards using the agent's panel.
+        - Collaborating with colleagues to ensure smooth and efficient card issuance processes.
+        - Providing accurate information and guidance to citizens and organizations using the card verification service.
+
+#certifications:
+#  title: Certifications
+#  list:
+#    - name: CV Builder
+#      start: 2020
+#      end: 2021
+#      organization: Microsoft
+#      credentialid: 111-222
+#      credentialurl: www.google.com
+#      credentialname: Google
+#      details: |
+#        Details about cert. Lorem ipsum dolor sit amet, consectetur
+#        adipiscing elit.
+#        Nullam eget orci purus. Nullam ultrices neque nibh.
+#        Aenean fermentum, felis vulputate suscipit accumsan,
+#        sem enim bibendum augue, sed convallis arcu lacus at dui.
+#        Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#        Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#        Praesent venenatis erat non augue suscipit consectetur.
+#
+#        Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+#        fringilla vel. Ut euismod, sem sed vulputate venenatis,
+#        justo diam viverra velit, sed rhoncus leo leo eu justo.
+#        Suspendisse placerat risus ante, sed porta nisi blandit at.
+#    - name: Git learning
+#      start: 2019
+#      end:
+#      organization: Microsoft
+#      credentialid: 111-222
+#      credentialurl: www.github.com
+#      credentialname: Github
+#      details: |
+#        Older certification. Lorem ipsum dolor sit amet, consectetur
+#        adipiscing elit.
+#        Nullam eget orci purus. Nullam ultrices neque nibh.
+#        Aenean fermentum, felis vulputate suscipit accumsan,
+#        sem enim bibendum augue, sed convallis arcu lacus at dui.
+#        Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#        Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#        Praesent venenatis erat non augue suscipit consectetur.
+
+#projects:
+#  title: Projects
+#  intro: >
+#    You can list your side projects in this
+#    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#  assignments:
+#    - title: Velocity
+#      link: "#hook"
+#      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#
+#    - title: DevStudio
+#      link: "#"
+#      tagline: "A responsive website template designed to help web developers/designers market their services."
+#
+#    - title: Tempo
+#      link: "#"
+#      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#    - title: Atom
+#      link: "#"
+#      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#    - title: Delta
+#      link: "#"
+#      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#
+#oss:
+#  title: OSS Contributions
+#  intro: >
+#    You can list your open source software contributions in this
+#    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#  contributions:
+#    - title: Tempo
+#      link: "#"
+#      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#    - title: Atom
+#      link: "#"
+#      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#    - title: Delta
+#      link: "#"
+#      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#
+#publications:
+#  title: Publications
+#  intro: |
+#    You can list your publications in this section. Lorem ipsum dolor sit
+#    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#    bibendum fringilla a eu lectus.
+#  papers:
+#    - title: The Art of Computer Programming
+#      link: "#"
+#      authors: Donald E. Knuth
+#      conference: Addison-Wesley, 1968
+#
+#    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#      link: "#"
+#      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#    - title: A syntax directed compiler for Algol 60
+#      link: "#"
+#      authors: Edgar T. Irons
+#      conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+  title: Skills &amp; Proficiency
+
+  toolset:
+    - name: Microsoft Office Suite
+      level: 100%
+
+    - name: HTML & CSS
+      level: 78%
+
+    - name: Javascript
+      level: 30%
+
+    - name: Python
+      level: 25%
+
+    - name: Photoshop
+      level: 40%
+
+
+footer: >
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
