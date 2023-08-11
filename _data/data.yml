@@ -18,7 +18,7 @@ sidebar:
   timezone: UTC
   citizenship:
   website: #blog.webjeda.com #do not add http://
-  linkedin:
+  linkedin: oumair-elabidi-2a2165288
   xing:
   github: elabeedi66
   telegram: # add your nickname without '@' sign
@@ -41,6 +41,9 @@ sidebar:
 
       - idiom: English
         level: Professional
+
+      - idiom: Amazigh
+        level: Elementary
 
   interests:
     title: Interests
